@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Lucasgrf&color=006bed) 
+![](https://komarev.com/ghpvc/?username=EpicFailDev&color=006bed) 
 
 ## About me
 
@@ -43,17 +43,16 @@
 <br/><img align="right" width="250" height="250" src="https://media.tenor.com/D4JUqaLLgeoAAAAi/one-piece-pixel.gif">
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg">
 </picture>
 
-[![lucasgrf](https://github-readme-stats.vercel.app/api?username=lucasgrf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![lucasgrf](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrf&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![EpicFailDev](https://github-readme-stats.vercel.app/api?username=EpicFailDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![EpicFailDev](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicFailDev&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasgrf)](https://www.linkedin.com/in/lucasgrf)
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasgabrielrf.contato@gmail.com)](mailto:gmiller.contato@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lucasgrf_/)
-[![GitHub](https://img.shields.io/github/followers/Lucasgrf?label=follow&style=social)](https://github.com/Lucasgrf)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-dev/)](https://www.linkedin.com/in/guilherme-dev/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmiller.contato@gmail.com)](mailto:gmiller.contato@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/EpicFailDev?label=follow&style=social)](https://github.com/EpicFailDev)
