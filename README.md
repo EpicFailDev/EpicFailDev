@@ -1,54 +1,80 @@
-![](https://komarev.com/ghpvc/?username=EpicFailDev&color=006bed) 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=006bed&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!;Sou+Guilherme+Muller!;Software+Engineering+Student" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=EpicFailDev&color=006bed" alt="Profile views" />
+</div>
+
+---
+
+### <div align="center">Sobre Mim</div>
+
+<div align="center">
+  
+  > "Sou Guilherme, estudante de Engenharia de Software na Jala University. Atualmente foco meus estudos em Java e C#, desenvolvendo projetos paralelos para aprimorar minha técnica. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras."
+
+</div>
+
+---
+
+### <div align="center">Minhas Skills 🚀</div>
+
+<div align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <br/>
+  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+---
+
+### <div align="center">Estatísticas do GitHub 📊</div>
+
+<div align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EpicFailDev&theme=tokyonight&show_icons=true&hide_border=true" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpicFailDev&theme=tokyonight&layout=compact&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### <div align="center">Onde me encontrar 📫</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/guilherme-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:gmiller.contato@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
 </div>
-
-
-
-#
-
-<p align="center">Sou Guilherme, estudante de Engenharia de Software na Jala University. Atualmente foco meus estudos em Java e C# , desenvolvendo projetos paralelos para aprimorar minha técnica. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
-#
-
-## My Skills <img align="right" width="250" height="250" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-</div>
-##
-
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg">
-</picture>
-
-[![EpicFailDev](https://github-readme-stats.vercel.app/api?username=EpicFailDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![EpicFailDev](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicFailDev&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Where to find me
-
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-dev/)](https://www.linkedin.com/in/guilherme-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gmiller.contato@gmail.com)](mailto:gmiller.contato@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/EpicFailDev?label=follow&style=social)](https://github.com/EpicFailDev)
