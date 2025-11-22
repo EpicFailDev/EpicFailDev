@@ -42,6 +42,12 @@
 
 <br/><img align="right" width="250" height="250" src="https://media.tenor.com/D4JUqaLLgeoAAAAi/one-piece-pixel.gif">
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 [![lucasgrf](https://github-readme-stats.vercel.app/api?username=lucasgrf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![lucasgrf](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgrf&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
