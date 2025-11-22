@@ -1,11 +1,15 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 ![](https://komarev.com/ghpvc/?username=EpicFailDev&color=006bed) 
 
-## About me
+#
 
-- 🤔 Learning new technologies and doing mini projects.
-- 🎓 Studying Software Engineering at Jala University.
-- 🌱 Studying more about Java, Docker, Angular, and SpringBoot.
-- 🩻 Cybersecurity Enthusiast.
+<p align="center">Sou Guilherme, estudante de Engenharia de Software na Jala University. Atualmente foco meus estudos em Java e C# , desenvolvendo projetos paralelos para aprimorar minha técnica. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
 ## My Skills <img align="right" width="250" height="250" src="https://media.tenor.com/lO6HqZ3I2dIAAAAi/e.gif">
 
