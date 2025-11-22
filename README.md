@@ -18,7 +18,7 @@
 
 ---
 
-### <div align="center">Minhas Skills 🚀</div>
+### <div align="center">Minhas Skills</div>
 
 <div align="center">
   <!-- Languages -->
