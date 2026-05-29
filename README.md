@@ -46,19 +46,6 @@
 ### <div align="center">Estatísticas do GitHub 📊</div>
 
 <div align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EpicFailDev&theme=tokyonight&show_icons=true&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpicFailDev&theme=tokyonight&layout=compact&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake-dark.svg?v=20260529-2">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/output/github-contribution-grid-snake.svg?v=20260529-2">
@@ -72,9 +59,20 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gmiller.contato@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/5567996417164" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/main/assets/parrot-red.gif" height="72" alt="dancing parrot" />
+  <img src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/main/assets/parrot-blue.gif" height="72" alt="dancing parrot" />
+  <img src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/main/assets/parrot-green.gif" height="72" alt="dancing parrot" />
+  <img src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/main/assets/parrot-cyan.gif" height="72" alt="dancing parrot" />
+  <img src="https://raw.githubusercontent.com/EpicFailDev/EpicFailDev/main/assets/parrot-gray.gif" height="72" alt="dancing parrot" />
 </div>
